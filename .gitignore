@@ -1,0 +1,9 @@
+/Noah.CMS.Web/obj/Debug
+/Noah.CMS.Web/obj/Release
+obj
+bin
+logs
+/.vs/config
+/TestResults
+.vs\Noah.CMS\v14
+v14
